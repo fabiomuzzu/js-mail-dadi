@@ -28,6 +28,9 @@ Mail:
 1 - eseguire un prompt per la mail.
 2 - creare un arrey di email.
 3 - creare un ciclo for.
-4 - inserire condizioni con if/else
+4 - inserire condizione con if per accertare la validità della mail.
 
 Gioco dei dadi:
+1 - Creazione numero random per player
+2 - Creazione numero random per computer
+3 - Creazione condizione if/else per confronto
